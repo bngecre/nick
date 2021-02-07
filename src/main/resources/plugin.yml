@@ -1,0 +1,9 @@
+name: Nick
+auhtor: bungeecore
+main: me.bungeecore.nick.NickPlugin
+version: 1.0
+depend:
+  - ProtocolLib
+  - LyCore
+commands:
+  nick:
